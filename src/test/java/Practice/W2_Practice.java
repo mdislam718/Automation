@@ -20,7 +20,7 @@ public class W2_Practice {
             }//end of conditions
 
              */
-      //gitHub practicingggode
+      //gitHub practicing
         }//end of loop
 
     }//end of main
